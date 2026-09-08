@@ -1,0 +1,7 @@
+{
+  "name": "Mukesh Fitness",
+  "description": "Practical training guides, science-backed fitness advice, workout routines, and free fitness calculators powered by a Node.js and MongoDB backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
